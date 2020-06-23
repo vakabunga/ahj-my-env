@@ -5,5 +5,7 @@
 # yarn https://vakabunga.github.io/ahj-my-env/
 
 изображения, явно указанные в файлах *.js собирает file-loader
+
 изображения, указанные в стилях собирает css-loader
+
 изображения, которые указаны в *.html копируются только copy-webpack-loader
